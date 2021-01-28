@@ -4,12 +4,12 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <html lang="en">
 <head>
 	<meta charset="utf-8">
-	<title>Inicio</title>
+	<title>Login</title>
 </head>
 <body>
 
 <div id="container">
-	<h1>Cambio!</h1>
+	<h1>login!</h1>
 
 	<div id="body">
 		<p>The page you are looking at is being generated dynamically by CodeIgniter.</p>
